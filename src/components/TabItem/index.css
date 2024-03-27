@@ -1,0 +1,29 @@
+.tab-item {
+    list-style: none;
+  }
+  
+  .tab-name {
+    font-family: 'Bree Serif';
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+  }
+  
+  .active {
+    color: #2563eb;
+    border-bottom: 2px solid #2563eb;
+  }
+  
+  .non-active {
+    color: #7b8794;
+    border-bottom: 2px solid #dfe2e5;
+  }
+  
+  button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
